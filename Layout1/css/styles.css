@@ -1,0 +1,30 @@
+header {
+	background-color: #8CDAE3;
+	display: block;
+	height: 120px;
+	margin-bottom: 25px;
+}
+
+div {
+	height: 400px;
+	margin-bottom: 25px;
+}
+
+#left {
+	background-color: #92E6C2;
+	float:left;
+	width: 60%;
+}
+
+#right {
+	background-color: #BCBA3D;
+	float:right;
+	width:37%;
+}
+
+footer {
+	clear:both;
+	background-color: #3D5FBC;
+	display: block;
+	height: 120px;
+}

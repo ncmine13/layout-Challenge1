@@ -1,0 +1,42 @@
+header {
+	height: 100px;
+}
+
+.mainblock {
+	clear:both;
+	background-color: #0c1b33;
+	height: 250px;
+	margin: 0px 20px;
+}
+
+#topleft {
+	width: 250px;
+	background-color: #3777dd;
+}
+
+li {
+	width: 180px;
+	height: 90px;
+	margin-left: 10px;
+	margin-top: 50px;
+	margin-right: 20px;
+	display: block;
+	float: right;
+	list-style: none;
+	background-color: #b0b7c1;
+}
+
+div {
+	background-color: #5c7aaa;
+	height: 130px;
+	margin: 20px; 15px;
+	width: 30%;
+	float: left;
+}
+
+footer {
+	clear: both;
+	background-color: #2a5396;
+	height: 110px;
+	margin: 0px 20px;
+}

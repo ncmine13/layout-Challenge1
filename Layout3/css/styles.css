@@ -1,0 +1,32 @@
+header {
+	height: 100px;
+	background-color: #C65314;
+	margin: 18px;
+}
+
+.top {
+	height: 230px;
+	background-color: #641B33;
+	float: left;
+	width: 47.5%;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.bottom {
+	clear:left;
+	height: 150px;
+	background-color: #A91848;
+	float: right;
+	width: 30%;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-right: 19px;
+}
+
+footer {
+	clear: both;
+	height: 100px;
+	background-color: #612809;
+	margin: 18px;
+}
